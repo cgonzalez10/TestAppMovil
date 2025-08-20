@@ -10,7 +10,7 @@ import SwiftUI
 struct DetalleView: View {
     var body: some View {
         VStack{
-            Text("Esta es la segunda pantalla")
+            Text("Esta es la segunda pantalla.")
                 .foregroundStyle(.purple)
                 .fontWeight(.bold)
             Image(systemName: "gamecontroller.fill")
