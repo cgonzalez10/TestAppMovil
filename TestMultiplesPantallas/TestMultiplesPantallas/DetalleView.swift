@@ -17,7 +17,7 @@ struct DetalleView: View {
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 100)
-                .foregroundStyle(.purple)
+                .foregroundStyle(.pink)
         }.toolbar(.hidden)
     }
 }
