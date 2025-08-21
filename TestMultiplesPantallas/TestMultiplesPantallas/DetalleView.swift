@@ -18,7 +18,7 @@ struct DetalleView: View {
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 100)
                 .foregroundStyle(.pink)
-        }.toolbar(.hidden)
+        }
     }
 }
 
